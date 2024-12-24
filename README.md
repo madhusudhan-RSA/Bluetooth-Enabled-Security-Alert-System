@@ -13,7 +13,6 @@ This project is an AVR-based door monitoring system that uses an IR sensor and a
 - **IR Sensor**: Connected to `PB2` (Pin 10 on Arduino Uno).
 - **Buzzer**: Connected to `PB5` (Pin 13 on Arduino Uno).
 - **Bluetooth Module**: Connected to UART pins (`RX` and `TX`) of the microcontroller.
-- Supporting components (resistors, capacitors, etc.) for proper operation.
 
 ## Circuit Diagram
 1. **IR Sensor**: Connect the signal pin of the IR sensor to `PB2`.
